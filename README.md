@@ -1,16 +1,12 @@
 ![Artwork](./src/img/stuff/art.png)
 
-jsPacman
+tigMan
 ========
-
-jsPacman is a HTML5 / JavaScript DOM based remake of the classic [Ms. Pac-Man](https://en.wikipedia.org/wiki/Ms._Pac-Man) game.
-
-Play Demo
------------
-[pacman.js.org](https://pacman.js.org/)
+* tigMan is a fork of jsPacman projet. I changed the characters to the staff and student of the school 42 in Perpignan. [https://42perpignan.fr/]
 
 Credits
 -----------
+* Original projet : [https://github.com/8tentaculos/jsPacman]
 * Game algorithm is based on [The Pac-Man Dossier](https://pacman.holenet.info/).
 * Sprites are from [spriters-resource](http://www.spriters-resource.com/game_boy_advance/namcomuseum/sheet/22732).
 
